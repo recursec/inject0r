@@ -1,6 +1,7 @@
 # inject0r
 This a tool ive been working on for the past week, its a automated sqli just something to test your things on. Have Fun!
-![image](https://user-images.githubusercontent.com/80779456/111416543-85b1e780-86ba-11eb-8286-20d614c612b7.png)
+![image](https://user-images.githubusercontent.com/80779456/111484409-1cf35b00-870c-11eb-9757-7fba238da1c4.png)
+
 
 
 
