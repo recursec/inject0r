@@ -62,9 +62,7 @@ try:
 
 
 
-'''
-Config
-'''
+
 installDir = os.path.dirname(os.path.abspath(__file__)) + '/'
 configFile = installDir + "/inject0r.cfg"
 print(installDir)
