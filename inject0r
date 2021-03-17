@@ -84,7 +84,7 @@ sqldb = color_random[0] + ''
 |__|___|  /\__|  |\___  >\___  >__|   \_____  /__|   
         \/\______|    \/     \/             \/           
 
-fsocietyPrompt = "inject0r ~# "
+inject0r = "inject0r ~# "
 alreadyInstalled = "Already Installed"
 continuePrompt = "\nClick [Return] to continue"
 
